@@ -22,6 +22,6 @@ O **Sistema de Gerenciamento Veterinário** foi desenvolvido em C para gerenciar
 
 ## Como Usar
 ### Pré-requisitos
-- Compilador C (como GCC).
+- Compilador C (como Dev c++ visual code, gcc e outros).
 
 
